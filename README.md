@@ -75,8 +75,8 @@ Here are some ideas to get you started:
 
 ### 🤖 LLM Engineering & Inference
 <p>
-  <img src="https://img.shields.io/badge/vLLM-%23000000.svg?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/SGLang-%234B8BBE.svg?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM-%23000000.svg?style=flat&logo=vllm&logoColor=white" />
+  <img src="https://img.shields.io/badge/SGLang-%234B8BBE.svg?style=flat&logo=sglang&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-orange?style=flat" />
   <img src="https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=flat&logo=nvidia&logoColor=white" />
