@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 ### 🧩 AI Agents & RAG Workflows
 <p>
   <img src="https://img.shields.io/badge/Dify-155EEF?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAGFlow-1D93AB?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAGFlow-1D93AB?style=flat&logo=bisheng&logoColor=white" />
   <img src="https://img.shields.io/badge/Bisheng-007AFF?style=flat&logo=probot&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-%23FF6D5A.svg?style=flat&logo=n8n&logoColor=white" />
 </p>
