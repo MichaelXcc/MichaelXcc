@@ -67,6 +67,21 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" />
 </p>
 
+### ☁️ Cloud Native & DevOps
+<p>
+  <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=flat&logo=helm&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Volcano-Scheduler-FD0000?style=flat&logo=cncf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubeflow-4279F2?style=flat&logo=kubeflow&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=argo&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white" />
+</p>
+
 ### 🤖 LLM Engineering & Inference
 <p>
   <img src="https://img.shields.io/badge/vLLM-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white" />
