@@ -28,3 +28,79 @@ Here are some ideas to get you started:
 
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat&logo=Istio&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat&logo=argo&logoColor=white)
+
+<h1 align="center">Hi there, I'm <a href="https://github.com/你的用户名" target="_blank">Your Name</a> 👋</h1>
+
+<p align="center">
+  <b>AI Infrastructure Engineer | Cloud Native Enthusiast | Open Source Contributor</b>
+</p>
+
+<p align="center">
+  I specialize in building high-performance <b>LLM inference platforms</b> and orchestrating <b>AI workloads</b> on Kubernetes.
+  <br />
+  Currently focusing on GPU optimization, scheduler customization, and serving large models efficiently.
+</p>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Building+Scalable+AI+Infra;Optimizing+LLM+Inference;Go+%2B+Python+%2B+Kubernetes;Always+Learning" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+## 🛠 Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+### ☁️ Cloud Native & DevOps
+<p>
+  <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" />
+</p>
+
+### 🤖 LLM Engineering & Inference
+<p>
+  <img src="https://img.shields.io/badge/vLLM-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/SGLang-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
+---
+
+## 🔭 What I'm Working On
+
+- 🚀 Building a **Kubernetes-native LLM Inference Platform** leveraging **vLLM** and **SGLang**.
+- ⚙️ Developing **Kubernetes Operators** (using Go) to manage GPU resource pools.
+- ⚡ Optimizing **Transformer** inference performance on **NVIDIA H800/A800** clusters.
+- 📊 Implementing observability for large-scale model serving.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
