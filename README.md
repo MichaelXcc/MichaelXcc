@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=MichaelXcc&theme=dark)
-
 <h1 align="center">Hi there, I'm <a href="https://github.com/MichaelXcc" target="_blank">MichaelXcc</a> 👋</h1>
 
 <p align="center">
