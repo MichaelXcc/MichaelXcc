@@ -53,18 +53,9 @@ Here are some ideas to get you started:
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-
-### ☁️ Cloud Native & DevOps
-<p>
-  <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flatlogo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" />
 </p>
 
 ### ☁️ Cloud Native & DevOps
@@ -84,11 +75,11 @@ Here are some ideas to get you started:
 
 ### 🤖 LLM Engineering & Inference
 <p>
-  <img src="https://img.shields.io/badge/vLLM-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/SGLang-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM-%23000000.svg?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/SGLang-%234B8BBE.svg?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-orange?style=flat" />
+  <img src="https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=flat&logo=nvidia&logoColor=white" />
 </p>
 
 ---
