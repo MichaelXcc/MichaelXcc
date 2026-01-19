@@ -76,6 +76,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/n8n-%23FF6D5A.svg?style=flat&logo=n8n&logoColor=white" />
 </p>
 ---
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,docker,git,linux&perline=10" />
+  </a>
+</p>
 
 ## 🔭 What I'm Working On
 
