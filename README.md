@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=280&section=header&text=MichaelXcc&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Infrastructure%20%26%20Cloud%20Native&descAlignY=55&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=242938&height=280&section=header&text=MichaelXcc&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Infrastructure%20%26%20Cloud%20Native&descAlignY=55&descAlign=62"/>
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=MichaelXcc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelXcc&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelXcc&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,javascript,jupyter%20notebook,shell" />
     </td>
   </tr>
 </table>
@@ -99,5 +99,5 @@
 <hr/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=242938&height=100&section=footer"/>
 </div>
