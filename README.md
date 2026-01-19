@@ -1,37 +1,27 @@
-### Hi there 👋
-
-<!--
-**MichaelXcc/MichaelXcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi there, I'm <a href="https://github.com/MichaelXcc" target="_blank">MichaelXcc</a> 👋</h1>
-
-<p align="center">
-  <b>AI Infrastructure Engineer | Cloud Native Enthusiast | Open Source Contributor</b>
-</p>
-
-<p align="center">
-  I specialize in building high-performance <b>LLM inference platforms</b> and orchestrating <b>AI workloads</b> on Kubernetes.
-  <br />
-  Currently focusing on GPU optimization, scheduler customization, and serving large models efficiently.
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=280&section=header&text=MichaelXcc&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Infrastructure%20%26%20Cloud%20Native&descAlignY=55&descAlign=62"/>
+</div>
 
 <div align="center">
+  <h3>🚀 Building high-performance LLM inference platforms on Kubernetes</h3>
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Building+Scalable+AI+Infra;Optimizing+LLM+Inference;Go+%2B+Python+%2B+Kubernetes;Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=500&lines=AI+Infrastructure+Engineer;Optimizing+LLM+Inference+on+H800%2FA800;Kubernetes+Operator+Developer;Go+%2B+Python+%2B+Cloud+Native" alt="Typing SVG" />
   </a>
 </div>
+
+<br/>
+
+<table align="center" border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=MichaelXcc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelXcc&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -39,55 +29,75 @@ Here are some ideas to get you started:
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flatlogo=golang&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=18181b" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=18181b" />
+  <img src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=18181b" />
 </p>
 
 ### ☁️ Cloud Native & DevOps
 <p>
-  <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=flat&logo=helm&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Volcano-Scheduler-FD0000?style=flat&logo=cncf&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubeflow-4279F2?style=flat&logo=kubeflow&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=argo&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=18181b" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=18181b" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white&labelColor=18181b" />
+  <img src="https://img.shields.io/badge/Volcano-FD0000?style=flat-square&logo=cncf&logoColor=white&labelColor=18181b" />
+  <img src="https://img.shields.io/badge/Kubeflow-4279F2?style=flat-square&logo=kubeflow&logoColor=white&labelColor=18181b" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white&labelColor=18181b" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white&labelColor=18181b" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white&labelColor=18181b" />
 </p>
 
 ### 🤖 LLM Engineering & Inference
 <p>
-  <img src="https://img.shields.io/badge/vLLM-%23000000.svg?style=flat&logo=vllm&logoColor=white" />
-  <img src="https://img.shields.io/badge/SGLang-%234B8BBE.svg?style=flat&logo=sglang&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-orange?style=flat" />
-  <img src="https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=flat&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM-000000?style=flat-square&logo=openai&logoColor=white&labelColor=18181b" />
+  <img src="https://img.shields.io/badge/SGLang-4B8BBE?style=flat-square&logo=python&logoColor=white&labelColor=18181b" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=18181b" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=18181b" />
+  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white&labelColor=18181b" />
 </p>
 
 ### 🧩 AI Agents & RAG Workflows
 <p>
-  <img src="https://img.shields.io/badge/Dify-155EEF?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAGFlow-1D93AB?style=flat&logo=bisheng&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bisheng-007AFF?style=flat&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-%23FF6D5A.svg?style=flat&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dify-155EEF?style=flat-square&logo=openai&logoColor=white&labelColor=18181b" />
+  <img src="https://img.shields.io/badge/RAGFlow-1D93AB?style=flat-square&logo=github&logoColor=white&labelColor=18181b" />
+  <img src="https://img.shields.io/badge/Bisheng-007AFF?style=flat-square&logo=probot&logoColor=white&labelColor=18181b" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white&labelColor=18181b" />
 </p>
----
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,docker,git,linux&perline=10" />
-  </a>
-</p>
+
+<br/>
 
 ## 🔭 What I'm Working On
 
-- 🚀 Building a **Kubernetes-native LLM Inference Platform** leveraging **vLLM** and **SGLang**.
-- ⚙️ Developing **Kubernetes Operators** (using Go) to manage GPU resource pools.
-- ⚡ Optimizing **Transformer** inference performance on **NVIDIA H800/A800** clusters.
-- 📊 Implementing observability for large-scale model serving.
+> _Focusing on the intersection of Cloud Native and AI Infrastructure._
 
----
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚀 Core Projects</h3>
+      <ul>
+        <li>Building a <b>K8s-native Inference Platform</b> with vLLM & SGLang</li>
+        <li>Writing <b>Custom Controllers</b> in Go for GPU pooling</li>
+        <li>Implementing <b>Volcano</b> queue visualization & priority scheduling</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚡ Performance</h3>
+      <ul>
+        <li>Tuning <b>H800/A800</b> GPU metrics for large scale training</li>
+        <li>Optimization of <b>BF16</b> matrix multiplication (GEMM)</li>
+        <li>Designing observability pipelines for Model Serving</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+<br/>
+
+<div align="center">
+  <img src="https://github.com/MichaelXcc/MichaelXcc/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake"/>
+</div>
+
+<hr/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=100&section=footer"/>
+</div>
