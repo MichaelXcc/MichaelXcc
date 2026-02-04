@@ -14,10 +14,10 @@
 
 <table align="center" border="0">
   <tr>
-    <td width="45%" align="center">
+    <!-- <td width="45%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=MichaelXcc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    </td>
-    <td width="55%" align="center">
+    </td> -->
+    <td width="100%" align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelXcc&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
     </td>
   </tr>
