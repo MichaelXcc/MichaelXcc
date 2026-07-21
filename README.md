@@ -92,15 +92,3 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github.com/MichaelXcc/MichaelXcc/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake"/>
-</div>
-
-<hr/>
-<div align="center">
-
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=242938&height=100&section=footer"/>
-
-
-</div>
