@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Xu Chuan — AI Infrastructure Engineer</title>
+  <desc id="desc">A dark technical dashboard with a luminous network diagram connecting GPU, Kubernetes, model serving, and agents.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".56" stop-color="#0c1730"/><stop offset="1" stop-color="#141037"/></linearGradient>
+    <linearGradient id="line" x2="1"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <linearGradient id="orb" x2="0" y2="1"><stop stop-color="#164e73"/><stop offset="1" stop-color="#382365"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#69d9ff" stroke-opacity=".075"/></pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="7"/></filter>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="18" fill="url(#grid)"/>
+  <path d="M0 300H1200M0 60H1200" stroke="#60a5fa" stroke-opacity=".13"/>
+  <path d="M40 90V60H70M1160 270v30h-30" fill="none" stroke="#22d3ee" stroke-width="2" stroke-opacity=".65"/>
+  <rect x="60" y="48" width="188" height="28" rx="14" fill="#102d44" stroke="#1c7896"/>
+  <circle cx="77" cy="62" r="4" fill="#39e5bc"/>
+  <text x="91" y="67" fill="#a7edff" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">SYSTEMS ENGINEER</text>
+  <text x="58" y="167" fill="#f3f8ff" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="700" letter-spacing="2">XU CHUAN</text>
+  <rect x="61" y="184" width="135" height="4" rx="2" fill="url(#line)"/>
+  <text x="59" y="226" fill="#7ddcf5" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="1.5">AI INFRASTRUCTURE</text>
+  <text x="59" y="259" fill="#c0cbe0" font-family="Arial, Helvetica, sans-serif" font-size="16">Kubernetes  /  Distributed Training  /  Model Serving</text>
+  <text x="60" y="319" fill="#7793b1" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">MICHAELXCC   •   BUILDING RELIABLE INTELLIGENT SYSTEMS</text>
+  <circle cx="951" cy="180" r="129" fill="#1f8bd1" opacity=".10" filter="url(#glow)"/>
+  <circle cx="951" cy="180" r="117" fill="none" stroke="#4b83ab" stroke-opacity=".24"/>
+  <circle cx="951" cy="180" r="89" fill="none" stroke="#54b6d3" stroke-opacity=".20" stroke-dasharray="4 8"/>
+  <g fill="none" stroke="url(#line)" stroke-width="2" opacity=".76"><path d="M951 180L819 101M951 180L1079 93M951 180L1104 236M951 180L800 264"/></g>
+  <g fill="#22d3ee"><circle cx="819" cy="101" r="5"/><circle cx="1079" cy="93" r="5"/><circle cx="1104" cy="236" r="5"/><circle cx="800" cy="264" r="5"/></g>
+  <circle cx="951" cy="180" r="54" fill="#299ae6" opacity=".32" filter="url(#glow)"/>
+  <circle cx="951" cy="180" r="55" fill="url(#orb)" stroke="#5edaff" stroke-width="2"/>
+  <text x="951" y="174" text-anchor="middle" fill="#f6fbff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">AI</text>
+  <text x="951" y="195" text-anchor="middle" fill="#8be5f4" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.5">PLATFORM</text>
+  <g fill="#a9d3e9" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5">
+    <text x="767" y="83">GPU</text><text x="1048" y="75">K8S</text><text x="1063" y="264">SERVING</text><text x="746" y="287">AGENTS</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="17" fill="none" stroke="#426b91" stroke-opacity=".46" stroke-width="2"/>
+</svg>
